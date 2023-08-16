@@ -3,7 +3,7 @@
 - javascript functions that encode and decode messages
 ## caeser shift
 - takes in an input string and shift value
-- encodes/decodes by shifting each character in the input by the shift value (based on position in the alphabet)
+- encodes/decodes by shifting each character in the input by the shift value (based on original position in the alphabet)
 
 ## polybius square
 - encodes input messages based on alphabet in a grid
@@ -11,4 +11,4 @@
 
 ## substitution cipher
 - takes in an input message and substitution alphabet, which can be any 26 characters
-- encodes/decodes messages by matching coordinates of the english alphabet to those in the substitution alphabet
+- encodes/decodes messages by matching position of characters of the english alphabet to those in the substitution alphabet
